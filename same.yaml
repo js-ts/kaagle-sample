@@ -21,7 +21,7 @@ metadata:
   version: 0.0.53
 notebook:
   name: Sample Complicated Notebook
-  path: sample_notebook.ipynb
+  path: house-prices-notebook-with-details.ipynb
 run:
   name: Sample Complicated Notebook - Run
   parameters:
