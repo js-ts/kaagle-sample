@@ -4,8 +4,8 @@ datasets:
     environments:
       prod-edge: ipfs://bafybeihymreqqcrajfghv2kbz6pjll3wwq5as6ihwszlko2bp2cjos4bea/data.json
       prod-dc: 
-        test: https://raw.githubusercontent.com/js-ts/kaagle-sample/main/test.csv
-        train: https://raw.githubusercontent.com/js-ts/kaagle-sample/main/train.csv
+        test: https://raw.githubusercontent.com/js-ts/kaagle-sample/master/test.csv
+        train: https://raw.githubusercontent.com/js-ts/kaagle-sample/master/train.csv
       staging: s3://contoso_test_DS/reco/202101211344/user_data.parquet
       default: 
         test: test.csv
